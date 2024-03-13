@@ -44,7 +44,7 @@ jobs:
           discovery type: 'single-node'
 
       - name: Check out repo
-        uses: actions/checkout@93ea575cb5d8a053eaa0ac8fa3b40d7e05a33cc8
+        uses: actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633
 
       - uses: ./.github/actions/node-npm-setup
 
