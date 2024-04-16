@@ -127,7 +127,7 @@
     "commander": "^10.0.0",
     "cross-env": "^7.0.3",
     "csp-parse": "0.0.2",
-    "dedent": "^0.7.0",
+    "dedent": "^1.5.3",
     "eslint": "8.34.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-standard": "^17.0.0",
